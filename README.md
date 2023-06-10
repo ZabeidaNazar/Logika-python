@@ -4,5 +4,14 @@
 В цьому репозиторію зберігатимуться мої проекти python сторені на уроках.
 
 
-Щоб створити exe файл введіть:
-pyinstaller --onefile --noconsole main.py
+
+
+## Щоб переглянути проект:
+
+1. Введіть:  
+**git clone https://github.com/ZabeidaNazar/Logika-python.git**
+
+2. Створіть exe файл ввівши команду:  
+**pyinstaller --onefile --noconsole main.py**
+
+3. Запустіть exe файл
